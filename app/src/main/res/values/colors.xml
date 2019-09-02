@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--自定义ViewValuableHintEditText-->
+    <color name="cos_blue">#003AFF</color>
+    <color name="cos_cyan">#B3DFFD</color>
+    <color name="cos_darkPink">#FF0066</color>
+    <color name="cos_shallowPink">#FFBCE7</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--部分hint可点击的自定义EditText-->
+    <declare-styleable name="FunHintEditText">
+        <!--可点击部分的前景色-->
+        <attr name="fgHintClickableRegion" format="color"/>
+        <!--可点击部分的背景色-->
+        <attr name="bgHintClickableRegion" format="color"/>
+        <!--平行线（下划线）的颜色-->
+        <attr name="colorParallelLines" format="color"/>
+        <!--是否需要平行线-->
+        <attr name="drawParallelLines" format="boolean"/>
+        <!--可点击部分之前的文字-->
+        <attr name="hintFormer" format="string"/>
+        <!--可点击部分的文字-->
+        <attr name="hintValue" format="string"/>
+        <!--可点击部分之后的文字-->
+        <attr name="hintLatter" format="string"/>
+    </declare-styleable>
+</resources>
